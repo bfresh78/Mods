@@ -1,0 +1,293 @@
+
+Logfile opened on Tue Feb 11 01:59:44 2020
+
+Waited 4512 msec for asset 'body_mp_sas_urban_sniper' of type 'xmodel'.
+Waited 91 msec for asset 'viewhands_black_kit' of type 'xmodel'.
+Waited 52 msec for asset 'body_mp_sas_urban_support' of type 'xmodel'.
+Waited 52 msec for asset 'body_mp_sas_urban_assault' of type 'xmodel'.
+Waited 52 msec for asset 'body_mp_sas_urban_recon' of type 'xmodel'.
+Waited 52 msec for asset 'body_mp_sas_urban_specops' of type 'xmodel'.
+Waited 92 msec for asset 'head_mp_opforce_justin' of type 'xmodel'.
+Waited 52 msec for asset 'body_mp_opforce_support' of type 'xmodel'.
+Waited 54 msec for asset 'body_mp_opforce_assault' of type 'xmodel'.
+Waited 52 msec for asset 'body_mp_opforce_eningeer' of type 'xmodel'.
+Waited 50 msec for asset 'head_mp_opforce_gasmask' of type 'xmodel'.
+Loaded zone 'mp_killhouse'
+Waited 2 msec for asset 'body_mp_opforce_cqb' of type 'xmodel'.
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/frag_grenade_mp.shock'
+-----------------------------------
+Working directory: C:\Users\Benshoff\Desktop\Servers\Cod4 Promod Snipe
+Warning: Hitch warning: 10086 msec frame time
+Huffman Took 3 Milliseconds
+Resolving cod4master.activision.com
+cod4master.activision.com resolved to 185.34.107.159:20810
+Sending heartbeat to cod4master.activision.com
+Resolving cod4master.activision.com
+cod4master.activision.com resolved to 185.34.107.159:20800
+Rcon from 192.168.1.142:-10524:
+shortversion
+"shortversion" is: "1.7^7" default: "1.7^7"
+  Domain is any text
+Rcon from 192.168.1.142:-10524:
+version
+"version" is: "CoD4 MP 17.9 win_mingw-x86 Feb 27 2019^7" default: "CoD4 MP 17.9 win_mingw-x86 Feb 27 2019^7"
+  Domain is any text
+Rcon from 192.168.1.142:-10522:
+shortversion
+"shortversion" is: "1.7^7" default: "1.7^7"
+  Domain is any text
+Rcon from 192.168.1.142:-10522:
+version
+"version" is: "CoD4 MP 17.9 win_mingw-x86 Feb 27 2019^7" default: "CoD4 MP 17.9 win_mingw-x86 Feb 27 2019^7"
+  Domain is any text
+Rcon from 192.168.1.142:-10520:
+shortversion
+"shortversion" is: "1.7^7" default: "1.7^7"
+  Domain is any text
+Rcon from 192.168.1.142:-10520:
+version
+"version" is: "CoD4 MP 17.9 win_mingw-x86 Feb 27 2019^7" default: "CoD4 MP 17.9 win_mingw-x86 Feb 27 2019^7"
+  Domain is any text
+Rcon from 192.168.1.142:-10519:
+shortversion
+"shortversion" is: "1.7^7" default: "1.7^7"
+  Domain is any text
+Warning: Hitch warning: 897 msec frame time
+Rcon from 192.168.1.1:-8432:
+status
+map: mp_killhouse
+num score ping guid                             name            lastmsg address               qport rate
+--- ----- ---- -------------------------------- --------------- ------- --------------------- ----- -----
+
+Rcon from 192.168.1.1:-8432:
+status
+map: mp_killhouse
+num score ping guid                             name            lastmsg address               qport rate
+--- ----- ---- -------------------------------- --------------- ------- --------------------- ----- -----
+
+Rcon from 192.168.1.1:-8432:
+set
+Rcon from 192.168.1.1:-8432:
+fs_game
+"fs_game" is: "mods/mtl_sniper^7" default: "^7"
+  Domain is any text
+Rcon from 192.168.1.1:-8432:
+fs_basepath
+"fs_basepath" is: "C:\Users\Benshoff\Desktop\Servers\Cod4 Promod Snipe^7" default: "C:\Users\Benshoff\Desktop\Servers\Cod4 Promod Snipe^7"
+  Domain is any text
+Rcon from 192.168.1.1:-8432:
+status
+map: mp_killhouse
+num score ping guid                             name            lastmsg address               qport rate
+--- ----- ---- -------------------------------- --------------- ------- --------------------- ----- -----
+
+Rcon from 192.168.1.1:-8432:
+fs_homepath
+"fs_homepath" is: "C:\Users\Benshoff\Desktop\Servers\Cod4 Promod Snipe^7" default: "C:\Users\Benshoff\Desktop\Servers\Cod4 Promod Snipe^7"
+  Domain is any text
+Rcon from 192.168.1.1:-8432:
+shortversion
+"shortversion" is: "1.7^7" default: "1.7^7"
+  Domain is any text
+Rcon from 192.168.1.1:-8432:
+say
+Rcon from 192.168.1.1:-8432:
+set
+Rcon from 192.168.1.1:-8432:
+say
+Sending heartbeat to cod4master.activision.com
+Rcon from 192.168.1.1:-3699:
+status
+map: mp_killhouse
+num score ping guid                             name            lastmsg address               qport rate
+--- ----- ---- -------------------------------- --------------- ------- --------------------- ----- -----
+
+Rcon from 192.168.1.1:-3699:
+PB_SV_Ver
+Rcon from 192.168.1.142:-3690:
+status
+map: mp_killhouse
+num score ping guid                             name            lastmsg address               qport rate
+--- ----- ---- -------------------------------- --------------- ------- --------------------- ----- -----
+
+Rcon from 192.168.1.142:-3690:
+PB_SV_Ver
+Sending heartbeat to cod4master.activision.com
+Sending heartbeat to cod4master.activision.com
+quitting...
+----- CL_Shutdown -----
+-----------------------
+----- Server Shutdown -----
+Sending heartbeat to cod4master.activision.com
+==== ShutdownGame (1) ====
+---------------------------
+Unloaded fastfile mp_killhouse
+Unloaded fastfile localized_common_mp
+Unloaded fastfile common_mp
+Unloaded fastfile mod
+Unloaded fastfile localized_code_post_gfx_mp
+Unloaded fastfile code_post_gfx_mp

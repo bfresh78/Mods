@@ -1,0 +1,132 @@
+
+Logfile opened on Wed Feb 12 21:09:49 2020
+
+
+By using this software you agree to the usage conditions you can find at https://github.com/callofduty4x/CoD4x_Server#usage-conditions-for-server-hosters
+-----------------------------------
+^4Calculate referenced files checksums...
+^4CRC32 for main/iw_11.iwd is e9cf411f Len 151420446
+^4CRC32 for mods/MTL_Sniper/promodlive211.iwd is 9c6f0b1b Len 1830323
+^4CRC32 for zone/english/code_post_gfx_mp.ff is b144581c Len 89196
+^4CRC32 for zone/english/common_mp.ff is 4ef7a074 Len 13517381
+^4CRC32 for mods/MTL_Sniper/mod.ff is 30d1205b Len 238913
+^4CRC32 for zone/english/mp_killhouse.ff is 74a9a11f Len 39319415
+Steam: Server connected successfully
+GameServer is not VAC Secure!
+GameServer SteamID: [A:1:2630245385]
+Resolving cod4master.activision.com 
+Sending master heartbeat from 0.0.0.0:28932 to 5.9.84.61:20810
+Sending master heartbeat from 0.0.0.0:28932 to 188.165.57.239:20810
+cod4master.activision.com resolved to 185.34.107.159:20810
+Rcon from 192.168.1.142:51597: status
+^5Hitch warning: 4424 msec frame time
+Resolving cod4master.activision.com
+cod4master.activision.com resolved to 185.34.107.159:20800
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Going from CS_FREE to CS_CONNECTED for Rumsfield num 0 from: 192.168.1.1:28960<=>0.0.0.0:28932
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+SV_ExecuteReliableMessage() cmd: 8
+^2Processed 71 bytes for client Rumsfield
+SV_ExecuteReliableMessage() cmd: 9
+Received packet 0 of stats data
+^2Processed 8201 bytes for client Rumsfield
+Player Rumsfield^7, 0 dropped: Authorization failed to complete within the timeout limit.
+SV_FreeClientScriptId: 0, 33 -> 0
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Going from CS_ZOMBIE to CS_FREE for client 0
+reconnected: 192.168.1.1:28960
+Going from CS_FREE to CS_CONNECTED for Rumsfield num 0 from: 192.168.1.1:28960<=>0.0.0.0:28932
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+SV_ExecuteReliableMessage() cmd: 8
+^2Processed 71 bytes for client Rumsfield
+SV_ExecuteReliableMessage() cmd: 8
+^2Processed 6 bytes for client Rumsfield
+SV_ExecuteReliableMessage() cmd: 9
+Received packet 0 of stats data
+^2Processed 8201 bytes for client Rumsfield
+Rcon from 192.168.1.142:58432: version
+Rcon from 192.168.1.142:58433: sv_running
+Rcon from 192.168.1.142:58435: fs_basepath
+Rcon from 192.168.1.142:58436: fs_game
+Rcon from 192.168.1.142:58437: g_log
+Rcon from 192.168.1.142:58438: g_logsync
+Rcon from 192.168.1.142:58440: net_ip
+Rcon from 192.168.1.142:58441: _website
+Rcon from 192.168.1.142:58442: set logfile 2
+Rcon from 192.168.1.142:58443: sv_customcallbacks
+Rcon from 192.168.1.142:58444: say MetalHeadz: ^5IW4MADMIN ^7is now ^2ONLINE
+Rcon from 192.168.1.142:58445: status
+Rcon from 192.168.1.142:60991: say MetalHeadz: ^5Owner Rumsfield^7 has joined the server
+Rcon from 192.168.1.142:53301: tell 0 MetalHeadz: Welcome ^5Rumsfield^7^7, this is your ^56th ^7time connecting!
+Rcon from 192.168.1.142:53303: tell 0 MetalHeadz: There are ^50 ^7recent reports
+Rcon from 192.168.1.142:53304: say MetalHeadz: ^5Rumsfield^7 ^7hails from ^5close by
+Rcon from 192.168.1.142:53305: status
+Rcon from 192.168.1.142:53307: status
+Rcon from 192.168.1.142:53309: status
+Rcon from 192.168.1.142:52604: status
+Rcon from 192.168.1.142:52606: status
+Rcon from 192.168.1.142:52608: status
+Rcon from 192.168.1.142:52610: status
+Rcon from 192.168.1.142:52613: status
+Rcon from 192.168.1.142:52615: status
+Rcon from 192.168.1.142:52617: status
+Rcon from 192.168.1.142:52619: status
+Rcon from 192.168.1.142:52620: say MetalHeadz: This server uses ^5IW4M Admin v2.3.1.119 ^7get it at ^5raidmax.org /IW4MAdmin
+Rcon from 192.168.1.142:52622: status
+Rcon from 192.168.1.142:54719: status
+Rcon from 192.168.1.142:54721: status
+Rcon from 192.168.1.142:54723: status
+Rcon from 192.168.1.142:49835: status
+Rcon from 192.168.1.142:49837: status
+Rcon from 192.168.1.142:49839: status
+Rcon from 192.168.1.142:49841: status
+Rcon from 192.168.1.142:49845: status
+Rcon from 192.168.1.142:64377: status
+Rcon from 192.168.1.142:64380: status
+Rcon from 192.168.1.142:64382: status
+Rcon from 192.168.1.142:64383: say MetalHeadz: ^5IW4M Admin ^7sees ^5YOU!
+Rcon from 192.168.1.142:64385: status
+Player Rumsfield^7, 0 dropped: EXE_DISCONNECTED
+SV_FreeClientScriptId: 0, 887 -> 0
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Going from CS_ZOMBIE to CS_FREE for client 0
+Rcon from 192.168.1.142:64387: status
+Rcon from 192.168.1.142:64389: status
+quitting...
+All plugins have terminated
+----- Server Shutdown -----
+
+With the reason: EXE_SERVERQUIT
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+==== ShutdownGame (1) ====
+---------------------------
+Unloading assets from fastfile 'mp_killhouse' and deleting all assets
+Unloading assets from fastfile 'mod' and deleting all assets
+Unloading assets from fastfile 'common_mp' and deleting all assets
+Unloading assets from fastfile 'localized_code_post_gfx_mp' and deleting all assets
+Unloading assets from fastfile 'code_post_gfx_mp' and deleting all assets
+Unloaded fastfile 'mp_killhouse'
+PMem_Free( mp_killhouse, Low )
+PMem_Free( mp_killhouse, High )
+Unloaded fastfile 'mod'
+PMem_Free( mod, Low )
+PMem_Free( mod, High )
+Unloaded fastfile 'common_mp'
+PMem_Free( common_mp, Low )
+PMem_Free( common_mp, High )
+Unloaded fastfile 'localized_code_post_gfx_mp'
+PMem_Free( localized_code_post_gfx_mp, Low )
+PMem_Free( localized_code_post_gfx_mp, High )
+Unloaded fastfile 'code_post_gfx_mp'
+PMem_Free( code_post_gfx_mp, Low )
+PMem_Free( code_post_gfx_mp, High )
